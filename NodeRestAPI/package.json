@@ -18,9 +18,9 @@
     "koa": "^2.5.0",
     "koa-bodyparser": "^4.2.0",
     "koa-logger": "^3.2.0",
-    "koa-router": "^7.4.0",
+    "koa-router": "^11.0.2",
     "koa-views": "^6.1.4",
-    "nunjucks": "^3.1.2"
+    "nunjucks": "^3.2.1"
   },
   "devDependencies": {
     "@koa/cors": "^2.2.1",
