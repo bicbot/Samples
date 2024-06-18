@@ -6,7 +6,7 @@
   "author": "Rainer Stropek",
   "license": "MIT",
   "dependencies": {
-    "ws": "^6.0.0"
+    "ws": "^8.17.1"
   },
   "devDependencies": {
     "typescript": "^3.1.1",
