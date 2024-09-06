@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "async": "^2.0.0",
-    "mongodb": "^3.0.0"
+    "async": "^3.0.0",
+    "mongodb": "^3.3.0"
   },
   "devDependencies": {
     "@types/async": "^2.0.49",
